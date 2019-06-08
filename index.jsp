@@ -5,11 +5,7 @@
     double num = Math.random();
     if (num > 0.95) {
   %>
-<<<<<<< HEAD
       <h2>You'll have a luck day!!!</h2><p>(<%= num %>)</p>
-=======
-      <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
->>>>>>> 7bc34b2267abc776b894e44bbc3293212e5b1030
   <%
     } else {
   %>
