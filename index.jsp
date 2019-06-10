@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>DevOps is cool... </h2><p>(<%= num %>)</p>
+      <h2>DevOps Test... </h2><p>(<%= num %>)</p>
   <%
     }
   %>
